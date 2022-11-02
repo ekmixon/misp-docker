@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 
 # Install core components
 ENV DEBIAN_FRONTEND noninteractive
