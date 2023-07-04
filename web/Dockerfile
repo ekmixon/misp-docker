@@ -1,5 +1,5 @@
 
-FROM ubuntu:latest
+FROM ubuntu:22.10
 
 # Install core components
 ENV DEBIAN_FRONTEND noninteractive
